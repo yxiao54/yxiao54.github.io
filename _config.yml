@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "PhD student"
+title                    : "Yi Xiao | PhD Researcher in AI & Wellbeing"
 title_separator          : "-"
 name                     : &name "Yi Xiao"
 description              : &description "personal description"
