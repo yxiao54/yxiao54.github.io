@@ -18,11 +18,20 @@ Education
 **M.S. in Computer Science**, Syracuse University, Syracuse, NY, USA (2021)  
 **B.S. in Computer Science and Technology**, Jilin University, Jilin, China (2019)
 
+Skills
+======
 
+* **Programming Languages**: Python, MATLAB, C/C++, Java, SQL,SPSS  
+* **Tools & Frameworks**: PyTorch, TensorFlow, NumPy, pandas, scikit-learn, Linux, Docker, Bash, AWS  
+* **Deep Learning & ML**: Transformers, Large Language Models (LLMs), Vision-Language Models, Foundation Models, Supervised Fine-Tuning, RLHF, Reinforcement Learning, Self-Supervised Learning, Neural Networks, Multimodal Learning, Statistical Learning  
+* **Applications**: Generative AI, Speech Recognition, Natural Language Processing (NLP), Computer Vision, Recommendation Systems, Question Answering, Time Series Forecasting, Face Detection, Clustering, Semantic Search, Sentiment Analysis
+
+  
 <h2>📰 News</h2>
 <ul>
   <li><strong>2025-07:</strong> Our paper <em>"Human Heterogeneity Invariant Stress Sensing"</em> accepted at <strong>IMWUT/UbiComp 2025</strong> 🎉</li>
-  <li><strong>2025-05:</strong> Glad to present our work at <strong>COS-IoT Week 2025, Irvine, CA, USA</strong> – <em>"Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter"</em>.</li>
+  <li><strong>2025-05:</strong> Glad to present our work on medical cyber-physical systems track at <strong>CPS-IoT Week 2025, Irvine, CA, USA.</strong></li>
+    <li><strong>2025-05:</strong>  Our paper <em>"Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter"</em> accepted at <strong>ICCPS 2025</strong>.</li>
   <li><strong>2025-04:</strong> Our paper <em>"CRoP: Context-wise Robust Static Human-Sensing Personalization"</em> accepted at <strong>IMWUT/UbiComp 2025</strong>. 🎉</li>
   <li><strong>2024-07:</strong> Our paper on <em>"VeriCompress: A Tool to Streamline the Synthesis of Verified Robust Compressed Neural Networks from Scratch"</em> was accepted at the <strong>AAAI Conference on Artificial Intelligence (AAAI 2024)</strong>.🎉</li>
   <li><strong>2024-10:</strong> My Co-Teaching paper was presented at <strong>UbiComp 2024, Melbourne, Australia.</strong></li>
@@ -33,8 +42,36 @@ Education
   
 </ul>
 
-Selective publications
+Publications
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. **<span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Sharma, H., Kaur, S., Bergen-Cico, D., Salekin, A.**  
+   *[Human Heterogeneity Invariant Stress Sensing](http://arxiv.org/abs/2506.02256)*  
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2025_
 
+2. **<span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Sharma, H., Tumanova, V., Salekin, A.**  
+   *[Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter](https://dl.acm.org/doi/10.1145/3716550.3722019)*  
+   _ACM/IEEE 16th International Conference on Cyber-Physical Systems (CPS-IoT Week 2025), 2025_
 
+3. **<span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Sharma, H., Zhang, Z., Bergen-Cico, D., Rahman, T., Salekin, A.**  
+   *[Reading Between the Heat: Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection](https://dl.acm.org/doi/10.1145/3631441)*  
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2023_
+
+4. **Kaur, S., <span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Salekin, A.**  
+   *[VeriCompress: A Tool to Streamline the Synthesis of Verified Robust Compressed Neural Networks from Scratch](https://ojs.aaai.org/index.php/AAAI/article/view/30327)*  
+   _AAAI Conference on Artificial Intelligence, 2024_
+
+5. **Testa, B., <span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Sharma, H., Gump, A., Salekin, A.**  
+   *[Privacy against Real-Time Speech Emotion Detection via Acoustic Adversarial Evasion of Machine Learning](https://dl.acm.org/doi/10.1145/3610887)*  
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2023_
+
+6. **Sharma, H., <span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Tumanova, V., Salekin, A.**  
+   *[Psychophysiological Arousal in Young Children Who Stutter: An Interpretable AI Approach](https://dl.acm.org/doi/10.1145/3550326)*  
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2022_
+
+7. **Kaur, S., Gump, A., <span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Xin, J., Sharma, H., Benway, N. R., Preston, J. L., Salekin, A.**  
+   *[CRoP: Context-wise Robust Static Human-Sensing Personalization](https://dl.acm.org/doi/10.1145/3729483)*  
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2025_
+
+8. **Benway, N. R., Preston, J. L., Salekin, A., <span style="color:#2b6cb0; font-weight:bold;">Xiao, Y.</span>, Sharma, H., McAllister, T.**  
+   *[Classifying Rhoticity of /r/ in Speech Sound Disorder using Age-and-Sex Normalized Formants](http://arxiv.org/abs/2305.16111)*  
+   _INTERSPEECH 2023, 2023_
