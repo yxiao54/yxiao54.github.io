@@ -15,14 +15,21 @@ I am a Ph.D. candidate in Computer Science and a research associate in Laborator
 
 ### Education
 
-**Arizona State University**, Ph.D. in Computer Science  
-_Expected graduation: 2026_
+<table>
+  <tr>
+    <td><strong>Arizona State University</strong>, Ph.D. in Computer Science</td>
+    <td align="right"><em>Expected 2026</em></td>
+  </tr>
+  <tr>
+    <td><strong>Syracuse University</strong>, M.S. in Computer Science</td>
+    <td align="right"><em>2021</em></td>
+  </tr>
+  <tr>
+    <td><strong>Jilin University</strong>, B.S. in Computer Science</td>
+    <td align="right"><em>2019</em></td>
+  </tr>
+</table>
 
-**Syracuse University**, M.S. in Computer Science  
-_Graduated: 2021_
-
-**Jilin University**, B.S. in Computer Science  
-_Graduated: 2019_
 
 <h2>📰 News</h2>
 <ul>
