@@ -12,23 +12,11 @@ About me
 ======
 I am a Ph.D. candidate in Computer Science and a research associate in Laboratory for Ubiquitous and Intelligent Sensing (UIS Lab) at Arizona State University since Fall 2021. I am honored to be advised by Dr. Asif Salekin. My research focuses on developing AI-driven systems for wearable systems for health related applications. By integrating advanced techniques such as large language models (LLMs), vision-language models (VLMs), multimodal learning, and speech analysis models, I aim to enhance the adaptability, accessibility, and interpretability of smart wearables devices for health monitoring, home management, and personalized interventions. I have published 8 papers in leading AI conferences, including IMWUT, AAAI, InterSpeech, and ICCPS.
 
-
-### Education
-
-<table>
-  <tr>
-    <td><strong>Arizona State University</strong>, Ph.D. in Computer Science</td>
-    <td align="right"><em>Expected 2026</em></td>
-  </tr>
-  <tr>
-    <td><strong>Syracuse University</strong>, M.S. in Computer Science</td>
-    <td align="right"><em>2021</em></td>
-  </tr>
-  <tr>
-    <td><strong>Jilin University</strong>, B.S. in Computer Science</td>
-    <td align="right"><em>2019</em></td>
-  </tr>
-</table>
+Education
+======
+**Ph.D. in Computer Science**, Arizona State University, Tempe, AZ, USA (Expected 2026)  
+**M.S. in Computer Science**, Syracuse University, Syracuse, NY, USA (2021)  
+**B.S. in Computer Science and Technology**, Jilin University, Jilin, China (2019)
 
 
 <h2>📰 News</h2>
