@@ -26,16 +26,6 @@ Skills
 * **Deep Learning & ML**: Transformers, Large Language Models (LLMs), Vision-Language Models, Foundation Models, Supervised Fine-Tuning, RLHF, Reinforcement Learning, Self-Supervised Learning, Neural Networks, Multimodal Learning, Statistical Learning  
 * **Applications**: Generative AI, Speech Recognition, Natural Language Processing (NLP), Computer Vision, Recommendation Systems, Question Answering, Time Series Forecasting, Face Detection, Clustering, Semantic Search, Sentiment Analysis
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="your_image.png" alt="News" width="150">
-
-  <div>
-    <h2>📰 News</h2>
-    <ul>
-      <li><strong>2025-05:</strong> Glad to present at <strong>CPS-IoT Week 2025</strong></li>
-    </ul>
-  </div>
-</div>
 
 <h2>📰 News</h2>
 
