@@ -19,7 +19,7 @@ Education
 **B.S. in Computer Science and Technology**, Jilin University, Jilin, China (2019)
 
 
-<h2>🎓 Selected Research Experiences</h2>
+<h2>🎓 Selected Researches</h2>
 
 <table>
   <tr>
