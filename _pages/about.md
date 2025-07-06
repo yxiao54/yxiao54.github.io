@@ -45,7 +45,7 @@ Education
       <img src="/images/image1.png" alt="Project 3" width="100%">
     </td>
     <td style="vertical-align: top;">
-      <strong>Improve AI's generlizbility via invariant pruning.</strong><br>
+      <strong>Human Heterogeneity Invariant Stress Sensing.</strong><br>
       Proposed a novel pruning and quantization algorithm that significantly enhances AI model's generalizability, leading to an 7.8% improvement in stress detection accuracy in completely unseen environments.
     </td>
   </tr>
@@ -55,7 +55,7 @@ Education
       <img src="/images/image1.png" alt="Project 3" width="100%">
     </td>
     <td style="vertical-align: top;">
-      <strong>Improve AI's generlizbility via Co-teaching</strong><br>
+      <strong>Reading Between the Heat</strong><br>
       Jointly trained two AI models with cross-modality supervision, where the EDA modality co-teaches the thermal video modality, resulting in over a 10% improvement in the thermal model's accuracy.
     </td>
   </tr>
