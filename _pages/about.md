@@ -18,6 +18,49 @@ Education
 **M.S. in Computer Science**, Syracuse University, Syracuse, NY, USA (2021)  
 **B.S. in Computer Science and Technology**, Jilin University, Jilin, China (2019)
 
+
+<h2>🎓 Selected Research Experiences</h2>
+
+<table>
+  <tr>
+    <td style="width: 40%; vertical-align: top;">
+      <img src="/images/image1.png" alt="Project 1" width="100%">
+    </td>
+    <td style="width: 60%; vertical-align: top;">
+      <strong>Diffusion model generation for audio mel-spectrogram</strong><br>
+      Leverage classifier-generated gradients to guide the diffusion model in generating class-specific, realistic mel-spectrograms, achieving high realism scores.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/images/image1.png" alt="Project 2" width="100%">
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Optimizing LLM Query Execution in semi-structured Table Question answering.  </strong><br>
+      By decomposing questions into image and table components and retrieving relevant data, improves the LLM's EM accuracy by 8.5% on the MultiModalQA dataset.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/images/image1.png" alt="Project 3" width="100%">
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Improve AI's generlizbility via invariant pruning.</strong><br>
+      Proposed a novel pruning and quantization algorithm that significantly enhances AI model's generalizability, leading to an 7.8% improvement in stress detection accuracy in completely unseen environments.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/images/image1.png" alt="Project 3" width="100%">
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Improve AI's generlizbility via Co-teaching</strong><br>
+      Jointly trained two AI models with cross-modality supervision, where the EDA modality co-teaches the thermal video modality, resulting in over a 10% improvement in the thermal model's accuracy.
+    </td>
+  </tr>
+</table>
+
 Skills
 ======
 
