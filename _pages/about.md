@@ -26,9 +26,30 @@ Skills
 * **Deep Learning & ML**: Transformers, Large Language Models (LLMs), Vision-Language Models, Foundation Models, Supervised Fine-Tuning, RLHF, Reinforcement Learning, Self-Supervised Learning, Neural Networks, Multimodal Learning, Statistical Learning  
 * **Applications**: Generative AI, Speech Recognition, Natural Language Processing (NLP), Computer Vision, Recommendation Systems, Question Answering, Time Series Forecasting, Face Detection, Clustering, Semantic Search, Sentiment Analysis
 
-  
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="your_image.png" alt="News" width="150">
+
+  <div>
+    <h2>📰 News</h2>
+    <ul>
+      <li><strong>2025-05:</strong> Glad to present at <strong>CPS-IoT Week 2025</strong></li>
+    </ul>
+  </div>
+</div>
+
 <h2>📰 News</h2>
-<ul>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Left Column: Images -->
+  <div>
+    <img src="/images/image1.png" alt="Image 1" width="120" style="margin-bottom: 10px;">
+    <img src="/images/image2.png" alt="Image 2" width="120" style="margin-bottom: 10px;">
+    <img src="/images/image3.png" alt="Image 3" width="120">
+  </div>
+
+<div>
+    <ul>
   <li><strong>2025-07:</strong> Our paper <em>"Human Heterogeneity Invariant Stress Sensing"</em> accepted at <strong>IMWUT/UbiComp 2025</strong> 🎉</li>
   <li><strong>2025-05:</strong> Glad to present our work on medical cyber-physical systems track at <strong>CPS-IoT Week 2025, Irvine, CA, USA.</strong></li>
     <li><strong>2025-05:</strong>  Our paper <em>"Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter"</em> accepted at <strong>ICCPS 2025</strong>.</li>
@@ -40,7 +61,10 @@ Skills
   <li><strong>2023-07:</strong> Our paper <em>"Privacy against real-time speech emotion detection via acoustic adversarial evasion of machine learning"</em> accepted at <strong>IMWUT/UbiComp 2023</strong> 🎉</li>
   <li><strong>2022-07:</strong> Our paper <em>"Psychophysiological arousal in young children who stutter: An interpretable ai approach."</em> accepted at <strong>IMWUT/UbiComp 2022</strong> 🎉</li>
   
-</ul>
+   </ul>
+  </div>
+
+</div>
 
 Publications
 ------
