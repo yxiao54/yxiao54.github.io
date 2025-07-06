@@ -24,7 +24,7 @@ Education
 <table>
   <tr>
     <td style="width: 40%; vertical-align: top;">
-      <img src="/images/image1.png" alt="Project 1" width="100%">
+      <img src="/images/diffusion.png" alt="Project 1" width="100%">
     </td>
     <td style="width: 60%; vertical-align: top;">
       <strong>Diffusion model generation for audio mel-spectrogram</strong><br>
@@ -33,7 +33,7 @@ Education
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="/images/image1.png" alt="Project 2" width="100%">
+      <img src="/images/llm.png" alt="Project 2" width="100%">
     </td>
     <td style="vertical-align: top;">
       <strong>Optimizing LLM Query Execution in semi-structured Table Question answering.  </strong><br>
@@ -42,7 +42,7 @@ Education
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="/images/image1.png" alt="Project 3" width="100%">
+      <img src="/images/hhiss.png" alt="Project 3" width="100%">
     </td>
     <td style="vertical-align: top;">
       <strong>Human Heterogeneity Invariant Stress Sensing.</strong><br>
@@ -52,7 +52,7 @@ Education
 
   <tr>
     <td style="vertical-align: top;">
-      <img src="/images/image1.png" alt="Project 3" width="100%">
+      <img src="/images/thermal.png" alt="Project 4" width="100%">
     </td>
     <td style="vertical-align: top;">
       <strong>Reading Between the Heat</strong><br>
