@@ -30,18 +30,10 @@ Education
     </td>
     <td style="width: 60%; vertical-align: top;">
       <strong>Diffusion model generation for audio mel-spectrogram</strong><br>
-      Leverage classifier-generated gradients to guide the diffusion model in generating class-specific, realistic mel-spectrograms, achieving high realism scores.
+      Leverage classifier-generated gradients to guide the diffusion model in generating class-specific, realistic counterfactual mel-spectrograms, achieving high realism scores and enhanced interpretability.
     </td>
   </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="/images/llm.png" alt="Project 2" width="100%">
-    </td>
-    <td style="vertical-align: top;">
-      <strong>Optimizing LLM Query Execution in semi-structured Table Question answering.  </strong><br>
-      By decomposing questions into image and table components and retrieving relevant data, improves the LLM's EM accuracy by 8.5% on the MultiModalQA dataset.
-    </td>
-  </tr>
+  
   <tr>
     <td style="vertical-align: top;">
       <img src="/images/hhiss.png" alt="Project 3" width="100%">
@@ -59,6 +51,16 @@ Education
     <td style="vertical-align: top;">
       <strong>Reading Between the Heat</strong><br>
       Jointly trained two AI models with cross-modality supervision, where the EDA modality co-teaches the thermal video modality, resulting in over a 10% improvement in the thermal model's accuracy.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/images/llm.png" alt="Project 2" width="100%">
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Optimizing LLM Query Execution in semi-structured Table Question answering.  </strong><br>
+      By decomposing questions into image and table components and retrieving relevant data, improves the LLM's EM accuracy by 8.5% on the MultiModalQA dataset.
     </td>
   </tr>
 </table>
