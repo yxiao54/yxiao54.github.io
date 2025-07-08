@@ -83,6 +83,7 @@ Skills
     <img src="/images/image1.png" alt="Image 1" width="120" style="margin-bottom: 10px;">
     <img src="/images/image2.png" alt="Image 2" width="120" style="margin-bottom: 10px;">
     <img src="/images/image3.png" alt="Image 3" width="120">
+    <img src="/images/image3.png" alt="Image 4" width="120">
   </div>
 
 <div>
