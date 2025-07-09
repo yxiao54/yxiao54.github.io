@@ -12,7 +12,7 @@ About me
 ======
 I am a Ph.D. candidate in Computer Science and a research associate in Laboratory for Ubiquitous and Intelligent Sensing (UIS Lab) at Arizona State University since Fall 2021. I am honored to be advised by Dr. Asif Salekin. 
 
-My research focuses on improving the generalizability, explainability, and robustness of AI models in the context of ubiquitous sensing and applied AI applications. I develop novel frameworks and training strategies to enhance model performance, interpretability, fairness, privacy, and resilience under domain shift, data scarcity, and real-world variability. My work spans application areas such as wearable sensing, computer vision, natural language processing, and audio processing.
+My research focuses on improving the generalizability, explainability, and robustness of AI models in the context of ubiquitous sensing and applied AI applications. I develop novel frameworks and training strategies to enhance model performance, interpretability, fairness, privacy, and resilience under domain shift, data scarcity, and real-world variability. My work spans application areas such as wearable sensing, computer vision, natural language processing, and audio processing. I have published 5 papers in IMWUT/UbiComp, and 1 each in AAAI, Interspeech, and ICCPS.[Jump to Publications](#publications)
 
 Education
 ======
