@@ -50,7 +50,8 @@ Education
     </td>
     <td style="vertical-align: top;">
       <strong>Reading Between the Heat</strong><br>
-      Jointly trained two AI models with cross-modality supervision, where the EDA modality co-teaches the thermal video modality, resulting in over a 10% improvement in the thermal model's accuracy.
+      Training AI models with multimodal data (EDA + Thermal) using a shared backbone allows model to learn richer embeddings and more discriminative decision boundaries. This approach leads to over a 10% performance gain when deploying the thermal modality alone.
+    
     </td>
   </tr>
 
