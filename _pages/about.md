@@ -29,7 +29,7 @@ Education
       <img src="/images/diffusion.png" alt="Project 1" width="100%">
     </td>
     <td style="width: 60%; vertical-align: top;">
-      <strong>Diffusion model generation for audio mel-spectrogram</strong><br>
+      <strong>Counterfactual Generation of Audio Mel-Spectrograms Using Diffusion Models</strong><br>
       Leverage classifier-generated gradients to guide the diffusion model in generating class-specific, realistic counterfactual mel-spectrograms, achieving high realism scores and enhanced interpretability.
     </td>
   </tr>
