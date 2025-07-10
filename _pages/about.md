@@ -94,7 +94,7 @@ Skills
     <li><strong>2025-05:</strong>  Our paper <em>"Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter"</em> accepted at <strong>ICCPS 2025</strong>.</li>
   <li><strong>2025-04:</strong> Our paper <em>"CRoP: Context-wise Robust Static Human-Sensing Personalization"</em> accepted at <strong>IMWUT/UbiComp 2025</strong>. 🎉</li>
   <li><strong>2024-07:</strong> Our paper on <em>"VeriCompress: A Tool to Streamline the Synthesis of Verified Robust Compressed Neural Networks from Scratch"</em> was accepted at the <strong>AAAI Conference on Artificial Intelligence (AAAI 2024)</strong>.🎉</li>
-  <li><strong>2024-10:</strong> My Co-Teaching paper was presented at <strong>UbiComp 2024, Melbourne, Australia.</strong></li>
+  <li><strong>2024-10:</strong> My "Reading Between the Heat" paper was presented at <strong>UbiComp 2024, Melbourne, Australia.</strong></li>
   <li><strong>2023-10:</strong> Our paper <em>"Reading Between the Heat": Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection"</em> accepted at <strong>IMWUT/UbiComp 2024</strong> 🎉</li>
   <li><strong>2023-10:</strong> Our paper <em>"Classifying Rhoticity of/r/in Speech Sound Disorder using Age-and-Sex Normalized Formants"</em> accepted at <strong>InterSpeech 2024</strong> 🎉</li>
   <li><strong>2023-07:</strong> Our paper <em>"Privacy against real-time speech emotion detection via acoustic adversarial evasion of machine learning"</em> accepted at <strong>IMWUT/UbiComp 2023</strong> 🎉</li>
