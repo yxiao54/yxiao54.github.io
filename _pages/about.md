@@ -46,7 +46,7 @@ Education
 
   <tr>
     <td style="vertical-align: top;">
-      <img src="/images/thermal.png" alt="Project 4" width="100%">
+      <img src="/images/Co-Teaching.png" alt="Project 4" width="100%">
     </td>
     <td style="vertical-align: top;">
       <strong>Reading Between the Heat</strong><br>
